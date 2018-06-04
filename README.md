@@ -2,7 +2,7 @@
 
 | Library Name     | Latest Version | Status |
 |:-----------------|:--------------:|:------:|
-| Vertis.SrmClient |      0.1.0     | [![VSTS](https://img.shields.io/vso/build/vertisnet/62009b64-8b3f-4d27-93c2-95512cf9951f/16.svg)](https://vertisnet.visualstudio.com/Product_Development/_build/index?context=allDefinitions&path=\Kaive&definitionId=16&_a=completed) |
+| Vertis.SrmClient |      1.0.0     | [![VSTS](https://img.shields.io/vso/build/vertisnet/62009b64-8b3f-4d27-93c2-95512cf9951f/16.svg)](https://vertisnet.visualstudio.com/Product_Development/_build/index?context=allDefinitions&path=\Kaive&definitionId=16&_a=completed) |
 
 # Introduction
 
